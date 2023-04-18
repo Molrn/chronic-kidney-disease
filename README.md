@@ -8,3 +8,10 @@ CHENG Ling Yi
 HOU Xinyu
 LAATAR Nisrine
 AUBRY Youri
+
+# Files description
+| File name          | Description                                                                                      |
+|--------------------|--------------------------------------------------------------------------------------------------|
+| EDA                | Contains everything about the dataset exploration analysis                                       |
+| data_cleaning      | Contains all the preprocessing steps                                                             |
+| accuracy_optymizer | Contains the training of the models, it also optimize the size of the training set of the models |
