@@ -1,6 +1,6 @@
 # chronic-kidney-disease
 
-This project uses Data Science and AI technologies are used to create a diagnosis process for chronic kidney disease from a [dataset](https://www.kaggle.com/code/niteshyadav3103/chronic-kidney-disease-prediction-98-accuracy/input) of patients. I has been realized at [UTBM](https://www.utbm.fr/) during the semester of spring 2023 as a part of the UV [DS50](https://guideuv.utbm.fr/#!/Fr/2022/GI/DS50) taught by [J.Gaber](https://fr.linkedin.com/in/jgaber) and [S.Iovleff](https://fr.linkedin.com/in/serge-iovleff-3846673a).
+This project uses Data Science and AI technologies to create a diagnosis process for chronic kidney disease from a [dataset](https://www.kaggle.com/code/niteshyadav3103/chronic-kidney-disease-prediction-98-accuracy/input) of patients. I has been realized at [UTBM](https://www.utbm.fr/) during the semester of spring 2023 as a part of the UV [DS50](https://guideuv.utbm.fr/#!/Fr/2022/GI/DS50) taught by [J.Gaber](https://fr.linkedin.com/in/jgaber) and [S.Iovleff](https://fr.linkedin.com/in/serge-iovleff-3846673a).
 
 # Contributors
 
